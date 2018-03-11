@@ -1,0 +1,4 @@
+﻿  KruglovTaskVS41.cpp
+d:\workspacecpp\kruglovtaskvs4_1\kruglovtaskvs4_1\kruglovtaskvs41.cpp(94): warning C4715: prev: значение возвращается не при всех путях выполнения
+  KruglovTaskVS4_1.vcxproj -> D:\workspaceCpp\KruglovTaskVS4_1\Debug\KruglovTaskVS4_1.exe
+  KruglovTaskVS4_1.vcxproj -> D:\workspaceCpp\KruglovTaskVS4_1\Debug\KruglovTaskVS4_1.pdb (Partial PDB)
